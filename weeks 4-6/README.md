@@ -100,11 +100,11 @@
 ## 9. Состав архива
 
 ```
-report_weeks_4-6/
-├── report.md                  — этот отчёт
+weeks 4-6/
+├── README.md
 ├── images/
-│   ├── rx_terminal_log.png    — вывод программы на приёмной стороне
-│   └── rx_iq_plot.png         — принятые I и Q
-└── src/
-    └── main.cpp               — итоговая программа (режим Tx/Rx по аргументу)
+│   ├── rx_terminal_log.png
+│   └── rx_iq_plot.png
+├── script.py
+└── main.cpp
 ```
