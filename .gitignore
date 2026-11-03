@@ -1,0 +1,10 @@
+build/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+*.pcm
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+.idea/
